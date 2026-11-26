@@ -21,6 +21,7 @@ Free, copy-paste recipes for the faceless AI video formats broken down on Instag
 | 13 | <img src="13-fallen-plant-lifecycle-ai/cover.jpg" width="120" alt="Fallen plant life-cycle AI timelapse cover"> | **Fallen plant life-cycle AI timelapse**<br>A seed or fruit falls on soil, a sprout rises, and a new plant forms in a locked-camera 6-second timelapse | [Open guide 13](13-fallen-plant-lifecycle-ai/README.md) |
 | 14 | <img src="14-giant-fruit-house-ai/cover.jpg" width="120" alt="Giant fruit-house AI builds cover"> | **Giant fruit-house AI builds**<br>A giant fruit lands in water, a doorway is cut in the skin, and a cozy interior glows inside | [Open guide 14](14-giant-fruit-house-ai/README.md) |
 | 15 | <img src="15-8-faceless-channel-styles/cover.jpg" width="120" alt="8 faceless channel styles carousel cover"> | **8 Faceless Channel Styles**<br>Eight distinct scenes in eight faceless YouTube styles (3D cartoon, claymation, lo-fi anime, dark doc, paper, pixel, infographic, cinematic), as an animated carousel. Comment GUIDE for all 8 prompts | [Open guide 15](15-8-faceless-channel-styles/README.md) |
+| 16 | <img src="16-gta6-20-styles/cover.jpg" width="120" alt="1 GTA 6 prompt, 20 styles cover"> | **1 GTA 6 Prompt, 20 Styles**<br>One Vice City-style beachfront scene redrawn in 20 art styles. Same prompt, just swap the style. Comment GTA for all 20 prompts | [Open guide 16](16-gta6-20-styles/README.md) |
 
 ## Good to know
 - These are **our rebuilds** of public formats, not the original creators' confirmed workflows.
